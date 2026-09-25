@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Pembukuan Bengkel Excel VBA",
+  "description": "Sistem pembukuan bengkel standalone desktop & PWA lengkap dengan generator kode Excel VBA, simulator interaktif UserForm, database stok, laporan rugi laba & bagi hasil siap cetak.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
